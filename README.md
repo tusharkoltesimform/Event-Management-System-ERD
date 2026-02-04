@@ -1,6 +1,5 @@
 # Event-Management-System-ERD
 
-# Event Management System – ER Diagram
 
 This repository contains an **ER diagram and database design** for an **Event Management System**.
 It models how events, attendees, venues, sessions, sponsors, tickets, and feedback interact with each other.
@@ -17,7 +16,7 @@ It models how events, attendees, venues, sessions, sponsors, tickets, and feedba
 
 ---
 
-## 🗂️ Main Entities
+## Main Entities
 
 * **Event** – Core entity storing event details
 * **Venue** – Physical locations where events are hosted
